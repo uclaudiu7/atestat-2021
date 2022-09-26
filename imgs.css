@@ -1,0 +1,202 @@
+.timg{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 20%;
+    left:78%;
+    font-size: 1.5rem;
+}
+
+#cimg{color:#63bea0;}
+#cppimg{color:#02A9EA}
+#csharpimg{color:#1d6c91}
+#htmlimg{color:#fc9319}
+#javaimg{color:#D91E36}
+#jsimg{left:75%;color:#2BD9FE}
+#pyimg{color:#296a83}
+#sqlimg{left:75%;color:#00B295}
+
+
+#img1{
+    position: absolute;
+    top:30%;
+    left:75%;
+    max-width: 20%;
+    height: auto;
+}
+
+#img2{
+    position: absolute;
+    top:75%;
+    left:75%;
+    max-width: 20%;
+    height: auto;
+}
+
+#img3{
+    position: absolute;
+    top:120%;
+    left:75%;
+    max-width: 20%;
+    height: auto;
+}
+
+#cpp{
+    position: absolute;
+    top:35%;
+    left:75%;
+    max-width: 15%;
+    height: auto;
+}
+
+#cpp2{
+    position: absolute;
+    top:62%;
+    left:75%;
+    max-width: 25%;
+    height: auto;
+}
+
+#cpp3{
+    position: absolute;
+    top:120%;
+    left:75%;
+    max-width: 20%;
+    height: auto;
+}
+
+#csharp{
+    position: absolute;
+    top:30%;
+    left:75%;
+    max-width: 25%;
+    height: auto;
+}
+
+#csharp2{
+    position: absolute;
+    top: 90%;
+    left:75%;
+    max-width: 25%;
+    height: auto;
+}
+
+#csharp3{
+    position: absolute;
+    top:140%;
+    left:75%;
+    max-width: 20%;
+    height: auto;
+}
+
+#html1{
+    position: absolute;
+    top:35%;
+    left:75%;
+    max-width: 25%;
+    height: auto;
+}
+
+#html2{
+    position: absolute;
+    top:90%;
+    left:75%;
+    max-width: 25%;
+    height: auto;
+}
+
+#java1{
+    position: absolute;
+    top:30%;
+    left:70%;
+    max-width: 30%;
+    height: auto;
+}
+
+#java2{
+    position: absolute;
+    top:70%;
+    left:70%;
+    max-width: 30%;
+    height: auto;
+}
+
+#java3{
+    position: absolute;
+    top:120%;
+    left:70%;
+    max-width: 30%;
+    height: auto;
+}
+
+#js1{
+    position: absolute;
+    top:30%;
+    left: 70%;
+    max-width: 30%;
+    height: auto;
+}
+
+#js2{
+    position: absolute;
+    top:30%;
+    left:70%;
+    max-width: 35%;
+    height: auto;
+}
+
+#js3{
+    position: absolute;
+    top: 90%;
+    left: 70%;
+    max-width: 40%;
+    height: auto;
+}
+
+#py1{
+    position: absolute;
+    top: 30%;
+    left: 70%;
+    max-width: 30%;
+    height: auto;
+}
+
+#py2{
+    position: absolute;
+    top: 75%;
+    left: 70%;
+    max-width: 30%;
+    height: auto;
+}
+
+#py3{
+    position: absolute;
+    top:130%;
+    left:70%;
+    max-width: 30%;
+    height: auto;
+}
+
+#sql1{
+    position: absolute;
+    top:30%;
+    left:70%;
+    max-width: 30%;
+    height: auto;
+}
+
+#sql2{
+    position: absolute;
+    top:95%;
+    left:70%;
+    max-width: 30%;
+    height: auto;
+}
+
+#sql3{
+    position: absolute;
+    top:140%;
+    left:70%;
+    max-width: 30%;
+    height: auto;
+}

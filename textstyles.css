@@ -1,0 +1,340 @@
+.qtext{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    top: 15%;
+    left: 8%;
+    right: 50%;
+    text-align: center;
+    font-size: 4rem;
+    color:rgb(45, 168, 230)
+}
+
+.info-text{
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    text-align:left;
+    left: 10%;
+    right: 60%;
+    font-size: 1.3rem;
+    color:rgb(255, 255, 255);
+}
+
+#t1{top: 45%;}
+#t2{top: 55%;}
+#t3{top: 65%;}
+
+.cqtext{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 18%;
+    left:13%;
+    font-size: 4rem;
+    color:#63bea0;
+}
+
+.cqtextmic{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 48%;
+    left: 13%;
+    font-size: 2rem;
+    color:#63bea0;
+}
+
+.ctext{
+    font-family: 'Raleway', sans-serif;
+    position: absolute;
+    text-align:left;
+    left: 13%;
+    right: 40%;
+    font-size: 1.3rem;
+    color:rgb(255, 255, 255);
+}
+
+.cppqtext{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 18%;
+    left:13%;
+    font-size: 4rem;
+    color:#02A9EA;
+}
+
+.cppqtextmic{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 48%;
+    left: 13%;
+    font-size: 2rem;
+    color:#02A9EA;
+}
+
+.csharpqtext{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 18%;
+    left:13%;
+    font-size: 4rem;
+    color:#1d6c91
+}
+
+.csharpqtextmic{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 48%;
+    left: 13%;
+    font-size: 2rem;
+    color:#1d6c91;
+}
+
+.htmlqtext{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 18%;
+    left:13%;
+    font-size: 4rem;
+    color:#fc9319;
+}
+
+.htmlqtextmic{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 48%;
+    left: 13%;
+    font-size: 2rem;
+    color:#fc9319;
+}
+
+.javaqtext{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 18%;
+    left:13%;
+    font-size: 4rem;
+    color:#D91E36;
+}
+
+.javaqtextmic{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 48%;
+    left: 13%;
+    font-size: 2rem;
+    color:#D91E36;
+}
+
+.jsqtext{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 18%;
+    left:13%;
+    font-size: 4rem;
+    color:#2BD9FE;
+}
+
+.jsqtextmic{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 48%;
+    left: 13%;
+    font-size: 2rem;
+    color:#2BD9FE;
+}
+
+.pyqtext{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 18%;
+    left:13%;
+    font-size: 4rem;
+    color:#296a83;
+}
+
+.pyqtextmic{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 48%;
+    left: 13%;
+    font-size: 2rem;
+    color:#296a83;
+}
+
+.sqlqtext{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 18%;
+    left:13%;
+    font-size: 4rem;
+    color:#00B295;
+}
+
+.sqlqtextmic{
+    font-family: 'Poppins', sans-serif;
+    position: absolute;
+    text-align: left;
+    top: 48%;
+    left: 13%;
+    font-size: 2rem;
+    color:#00B295;
+}
+
+#cl1{top:59%;left:16%;}
+#cl2{top:67%;left:16%;}
+#cl3{top:102%;left:14%;}
+#cl4{top:116%;left:14%;}
+#cl5{top:120%;left:14%;}
+#cl6{top:124%;left:14%;}
+#cl7{top:128%;left:16%;}
+#cl8{top:132%;left:16%;}
+#cl9{top:136%;left:16%;}
+
+#cppl1{top:59%;left:16%;}
+#cppl2{top:67%;left:16%;}
+#cppl4{top:109%;left:14%;}
+#cppl5{top:113%;left:14%;}
+#cppl6{top:117%;left:14%;}
+#cppl7{top:121%;left:16%;}
+#cppl8{top:125%;left:16%;}
+#cppl9{top:129%;left:16%;}
+
+#csharpl1{top:145%;left:14%;}
+#csharpl2{top:152%;left:14%;}
+#csharpl3{top:166%;left:14%;}
+#csharpl4{top:175%;left:14%;}
+
+#htmll2{top:64%;left:16%;}
+#htmll3{top:94%;left:14%;}
+#htmll4{top:101%;left:14%;}
+#htmll6{top:108%;left:14%;}
+#htmll7{top:112%;left:16%;}
+#htmll8{top:116%;left:16%;}
+#htmll9{top:120%;left:16%;}
+
+#javal2{top:63%;left:16%;}
+#javal3{top:70%;left:14%}
+#javal4{top:74%;left:14%}
+#javal5{top:92%;left:14%;}
+#javal6{top:106.5%;left:14%;}
+
+#jsl1{top:104%;left:14%;}
+#jsl2{top:119%;left:14%;}
+#jsl3{top:123%;left:16%;}
+#jsl4{top:127%;left:16%;}
+#jsl5{top:131%;left:16%;}
+
+#pyl5{top:95%;left:14%;}
+#pyl6{top:102%;left:14%;}
+#pyl7{top:106%;left:14%;}
+#pyl8{top:112%;left:14%;}
+#pyl9{top:116%;left:16%;}
+#pyl10{top:120%;left:16%;}
+#pyl11{top:124%;left:16%;}
+#pyl12{top:166%;left:14%;}
+#pyl13{top:175%;left:14%;}
+#pyl14{top:184%;left:14%;}
+#pyl15{top:190%;left:14%;}
+
+#sqll1{top:60%;left:16%;}
+#sqll2{top:66%;left:16%;}
+#sqll3{top:94%;left:14%;}
+#sqll4{top:106%;left:14%;}
+#sqll5{top:113%;left:14%;}
+#sqll6{top:117%;left:16%;}
+#sqll7{top:121%;left:16%;}
+#sqll8{top:125%;left:16%;}
+#sqll9{top:178%;left:14%;}
+#sqll10{top:187%;left:14%;}
+#sqll11{top:198%;left:14%;}
+#sqll12{top:125%;left:14%;}
+#sqll13{top:125%;left:14%;}
+
+.sqlc1{color: #99e0d5}
+
+
+#ct1{top:35%;}
+#ct2{top:55%;left:14%}
+#ct3{top:75%;left:14%}
+#ct4{top:80%;left:14%}
+#ctt4{right:0%;left:4%;}
+#ct5{top:103%;left:14%}
+#ct6{top:150%;left:14%;}
+
+#cppt6{top:143%;left:14%;}
+
+#htmlt1{top:72%;left:14%}
+#htmlt2{top:77%;left:14%}
+#htmlt3{top:138%;left:14%}
+
+#pyt6{top:142%;left:14%}
+
+#sqlt2{top:57%;left:14%}
+#sqlt3{top:78%;left:14%}
+#sqlt4{top:142%;left:14%}
+
+#cqtm2{top:95%}
+#cqtm3{top:144%}
+
+#cppqtm2{top:92%}
+#cppqtm3{top:137%}
+
+#htmlqtm2{top:87%}
+#htmlqtm3{top:130%}
+
+#javaqtm2{top:85%}
+
+#pyqtm2{top:88%}
+#pyqtm3{top:134%;}
+#pyqtm4{top:160%;}
+
+#jsqtm1{top:49%;}
+#jsqtm3{top:139%}
+#jst6{top:145%;left:14%;}
+
+#sqlqtm1{top:51%;}
+#sqlqtm2{top:135%;}
+#sqlqtm3{top:172%;}
+
+.fundal{
+    position: absolute;
+    font-family: 'Indie Flower', cursive;
+    color: #272727;
+    font-size: 20px;
+}
+
+#cft1{left:3%;top:10%;}
+#cft2{left:3%;top:162%;}
+#cft3{left:2%;top:8%;}
+#cft4{left:2%;top:164%;}
+#cft5{left:11%;top:18%;}
+#cft6{left:11%;top:25%;}
+#cft7{left:11%;top:33%;}
+#cft8{left:11%;top:158%;}
+
+#csharpft2{left:3%;top:190%;}
+#csharpft8{left:11%;top:186%;}
+#csharpft4{left:2%;top:192%;}
+
+#pyft8{left:11%;top:192%}
+#pyft2{left:3%;top:194%}
+#pyft4{left:2%;top:196%}
+
+#sqlft8{left:11%;top:208%}
+#sqlft2{left:3%;top:214%}
+#sqlft4{left:2%;top:216%}
+
+
